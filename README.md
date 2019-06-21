@@ -1,2 +1,1 @@
-# amazon-test
-this is project is for testing ecommerce
+Venkatesh kumar VBM INFO TECH
